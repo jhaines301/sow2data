@@ -1,6 +1,3 @@
-# sow2 data
-
-## Dependenices 
-
-# pdf_text_extraction.py
-pip3 install pdfminer.six
+# Dependenices 
+<b>pdf_text_extraction.py</b>
+- pip3 install pdfminer.six
